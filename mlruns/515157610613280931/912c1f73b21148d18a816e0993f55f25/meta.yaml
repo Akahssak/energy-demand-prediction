@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/akash/OneDrive/Desktop/Energy Demand Prediction MLOps/mlruns/515157610613280931/912c1f73b21148d18a816e0993f55f25/artifacts
+end_time: 1759863089806
+entry_point_name: ''
+experiment_id: '515157610613280931'
+lifecycle_stage: active
+run_id: 912c1f73b21148d18a816e0993f55f25
+run_name: GradientBoosting_Model
+run_uuid: 912c1f73b21148d18a816e0993f55f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759863059443
+status: 3
+tags: []
+user_id: akash

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/akash/OneDrive/Desktop/Energy Demand Prediction MLOps/mlruns/515157610613280931/23ece48295af4acf84b0e7969423e836/artifacts
+end_time: 1759863059428
+entry_point_name: ''
+experiment_id: '515157610613280931'
+lifecycle_stage: active
+run_id: 23ece48295af4acf84b0e7969423e836
+run_name: RandomForest_Model
+run_uuid: 23ece48295af4acf84b0e7969423e836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759862984522
+status: 3
+tags: []
+user_id: akash
